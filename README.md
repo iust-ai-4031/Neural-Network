@@ -60,13 +60,6 @@ This section includes:
 
 To run or build upon this project, ensure you have the following:
 
-### Prerequisites
-- Python 3.8+
-- Required libraries (install using the `requirements.txt` file):
-  ```bash
-  pip install -r requirements.txt
-  ```
-
 ### Running the Code
 1. Navigate to the relevant directory for the part you want to explore:
    - For the shallow neural network: `1-Shallow Neural Network Implementation/`
